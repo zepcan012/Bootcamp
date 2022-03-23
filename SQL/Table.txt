@@ -1,0 +1,12 @@
+CREATE TABLE Employee(
+ Id INT PRIMARY KEY,
+ FirstName VARCHAR(40),
+ LastName VARCHAR(40)
+);
+
+CREATE TABLE Salary(
+ EmployeeID INT UNIQUE NOT NULL,
+ SalaryAmount VARCHAR(20),
+ Valute VARCHAR(20),
+ CONSTRAINT FK_Salary_Employee FOREIGN KEY(EmployeeID) REFERENCES Employee(Id)
+);

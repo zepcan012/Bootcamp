@@ -1,0 +1,33 @@
+INSERT INTO Employee (Id, FirstName, LastName) VALUES ('1','Ivan','Petric'); 
+INSERT INTO Employee (Id, FirstName, LastName) VALUES ('2','Josipa','Maric'); 
+INSERT INTO Employee (Id, FirstName, LastName) VALUES ('3','Lana','Ivanic'); 
+INSERT INTO Employee (Id, FirstName, LastName) VALUES ('4','Luka','Kovacevic'); 
+INSERT INTO Employee (Id, FirstName, LastName) VALUES ('5','Petar','Lazic'); 
+
+INSERT INTO Salary (EmployeeID, SalaryAmount, Valute) VALUES ('1','5000','Kuna');
+INSERT INTO Salary (EmployeeID, SalaryAmount, Valute) VALUES ('2','5400','Euro');
+INSERT INTO Salary (EmployeeID, SalaryAmount, Valute) VALUES ('3','3300','Dolar');
+INSERT INTO Salary (EmployeeID, SalaryAmount, Valute) VALUES ('4','6000','Kuna');
+INSERT INTO Salary (EmployeeID, SalaryAmount, Valute) VALUES ('5','7300','Euro');
+
+UPDATE Employee SET FirstName = 'Petra' WHERE Id = '5';
+UPDATE Employee SET LastName = 'Maric' WHERE Id = '1';
+UPDATE Salary SET SalaryAmount = '6500' WHERE EmployeeID = '4';
+
+
+SELECT FirstName, Lastname FROM Employee LEFT JOIN Salary ON Employee.Id = Salary.EmployeeID;
+SELECT Employee.FirstName, Employee.LastName, Salary.SalaryAmount, Salary.Valute FROM Employee FULL OUTER JOIN Salary ON Employee.Id = Salary.EmployeeID;
+SELECT Employee.FirstName, Employee.LastName, Salary.SalaryAmount FROM Employee INNER JOIN Salary ON Employee.Id = Salary.EmployeeID;
+
+SELECT* FROM Employee ORDER BY Id DESC;
+SELECT * FROM Salary ORDER BY SalaryAmount ASC;
+
+SELECT * FROM Employee WHERE LastName = 'Maric';
+
+SELECT COUNT (LastName) FROM Employee WHERE Lastname = 'Maric';
+SELECT * FROM Employee WHERE FirstName LIKE 'l%';
+SELECT * FROM Salary WHERE SalaryAmount > 5000;
+SELECT * FROM Employee WHERE Id BETWEEN 1 AND 4;
+
+CREATE INDEX Index_Employee ON Employee (FirstName, LastName);
+CREATE INDEX Index_Salary ON Salary (SalaryAmount, Valute);
