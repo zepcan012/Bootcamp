@@ -157,9 +157,9 @@ namespace Test.WebApi.Controllers
             list.Add(emp2);
 
             Employee emp3 = new Employee();
-            emp2.Id = 3;
-            emp2.FirstName = "Anica";
-            emp2.LastName = "Anic";
+            emp3.Id = 3;
+            emp3.FirstName = "Anica";
+            emp3.LastName = "Anic";
 
             list.Add(emp3);
 
