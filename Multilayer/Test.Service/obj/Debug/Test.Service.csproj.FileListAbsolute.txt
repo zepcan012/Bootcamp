@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Service\obj\Debug\Test.Service.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Service\obj\Debug\Test.Service.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Service\bin\Debug\Test.Service.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Service\bin\Debug\Test.Service.pdb
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Service\bin\Debug\Test.Model.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Service\bin\Debug\Test.Repository.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Service\bin\Debug\Test.Model.pdb
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Service\bin\Debug\Test.Repository.pdb
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Service\obj\Debug\Test.Service.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Service\obj\Debug\Test.Service.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Service\obj\Debug\Test.Service.pdb
