@@ -1,0 +1,6 @@
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Model\bin\Debug\Test.Model.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Model\bin\Debug\Test.Model.pdb
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Model\obj\Debug\Test.Model.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Model\obj\Debug\Test.Model.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Model\obj\Debug\Test.Model.pdb
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Model\obj\Debug\Test.Model.csprojAssemblyReference.cache

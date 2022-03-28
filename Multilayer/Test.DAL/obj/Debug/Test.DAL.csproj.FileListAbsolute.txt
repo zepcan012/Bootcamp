@@ -1,0 +1,5 @@
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.DAL\bin\Debug\Test.DAL.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.DAL\bin\Debug\Test.DAL.pdb
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.DAL\obj\Debug\Test.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.DAL\obj\Debug\Test.DAL.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.DAL\obj\Debug\Test.DAL.pdb

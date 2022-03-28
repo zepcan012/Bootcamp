@@ -1,0 +1,5 @@
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Service.Common\bin\Debug\Test.Service.Common.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Service.Common\bin\Debug\Test.Service.Common.pdb
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Service.Common\obj\Debug\Test.Service.Common.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Service.Common\obj\Debug\Test.Service.Common.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Service.Common\obj\Debug\Test.Service.Common.pdb

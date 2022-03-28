@@ -1,0 +1,5 @@
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Repository.Common\bin\Debug\Test.Repository.Common.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Repository.Common\bin\Debug\Test.Repository.Common.pdb
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Repository.Common\obj\Debug\Test.Repository.Common.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Repository.Common\obj\Debug\Test.Repository.Common.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Repository.Common\obj\Debug\Test.Repository.Common.pdb
