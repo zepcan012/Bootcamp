@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Common\bin\Debug\Test.Common.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Common\bin\Debug\Test.Common.pdb
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Common\obj\Debug\Test.Common.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Common\obj\Debug\Test.Common.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Common\obj\Debug\Test.Common.pdb
+C:\Users\Korisnik\Desktop\dependency injection\Test.Common\bin\Debug\Test.Common.dll
+C:\Users\Korisnik\Desktop\dependency injection\Test.Common\bin\Debug\Test.Common.pdb
+C:\Users\Korisnik\Desktop\dependency injection\Test.Common\obj\Debug\Test.Common.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\dependency injection\Test.Common\obj\Debug\Test.Common.dll
+C:\Users\Korisnik\Desktop\dependency injection\Test.Common\obj\Debug\Test.Common.pdb
+C:\Users\Korisnik\Desktop\dependency injection\Test.Common\obj\Debug\Test.Common.csprojAssemblyReference.cache
