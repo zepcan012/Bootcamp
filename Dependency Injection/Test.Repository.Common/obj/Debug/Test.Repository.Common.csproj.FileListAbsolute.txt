@@ -1,0 +1,14 @@
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Repository.Common\bin\Debug\Test.Repository.Common.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Repository.Common\bin\Debug\Test.Repository.Common.pdb
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Repository.Common\obj\Debug\Test.Repository.Common.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Repository.Common\obj\Debug\Test.Repository.Common.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Repository.Common\obj\Debug\Test.Repository.Common.pdb
+C:\Users\Korisnik\Desktop\dependency injection\Test.Repository.Common\bin\Debug\Test.Repository.Common.dll
+C:\Users\Korisnik\Desktop\dependency injection\Test.Repository.Common\bin\Debug\Test.Repository.Common.pdb
+C:\Users\Korisnik\Desktop\dependency injection\Test.Repository.Common\bin\Debug\Test.Model.Common.dll
+C:\Users\Korisnik\Desktop\dependency injection\Test.Repository.Common\bin\Debug\Test.Model.Common.pdb
+C:\Users\Korisnik\Desktop\dependency injection\Test.Repository.Common\obj\Debug\Test.Repository.Common.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\dependency injection\Test.Repository.Common\obj\Debug\Test.Repository.Common.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\dependency injection\Test.Repository.Common\obj\Debug\Test.Repository.Common.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\dependency injection\Test.Repository.Common\obj\Debug\Test.Repository.Common.dll
+C:\Users\Korisnik\Desktop\dependency injection\Test.Repository.Common\obj\Debug\Test.Repository.Common.pdb

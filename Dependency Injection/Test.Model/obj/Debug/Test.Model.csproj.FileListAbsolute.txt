@@ -1,0 +1,17 @@
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Model\bin\Debug\Test.Model.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Model\bin\Debug\Test.Model.pdb
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Model\obj\Debug\Test.Model.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Model\obj\Debug\Test.Model.dll
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Model\obj\Debug\Test.Model.pdb
+C:\Users\Korisnik\Desktop\multilayer\multilayer\Test.Model\obj\Debug\Test.Model.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\dependency injection\Test.Model\bin\Debug\Test.Model.dll
+C:\Users\Korisnik\Desktop\dependency injection\Test.Model\bin\Debug\Test.Model.pdb
+C:\Users\Korisnik\Desktop\dependency injection\Test.Model\bin\Debug\Test.Common.dll
+C:\Users\Korisnik\Desktop\dependency injection\Test.Model\bin\Debug\Test.Model.Common.dll
+C:\Users\Korisnik\Desktop\dependency injection\Test.Model\bin\Debug\Test.Common.pdb
+C:\Users\Korisnik\Desktop\dependency injection\Test.Model\bin\Debug\Test.Model.Common.pdb
+C:\Users\Korisnik\Desktop\dependency injection\Test.Model\obj\Debug\Test.Model.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\dependency injection\Test.Model\obj\Debug\Test.Model.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\dependency injection\Test.Model\obj\Debug\Test.Model.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\dependency injection\Test.Model\obj\Debug\Test.Model.dll
+C:\Users\Korisnik\Desktop\dependency injection\Test.Model\obj\Debug\Test.Model.pdb
